@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_Gateway/API_Gateway.iml" filepath="$PROJECT_DIR$/API_Gateway/API_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Auth_Service/Auth_Service.iml" filepath="$PROJECT_DIR$/Auth_Service/Auth_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booking_Service/Booking_Service.iml" filepath="$PROJECT_DIR$/Booking_Service/Booking_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer_Service/Customer_Service.iml" filepath="$PROJECT_DIR$/Customer_Service/Customer_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discovery_Server/Discovery_Server.iml" filepath="$PROJECT_DIR$/Discovery_Server/Discovery_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel_Service/Hotel_Service.iml" filepath="$PROJECT_DIR$/Hotel_Service/Hotel_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Travel Planning System_Backend.iml" filepath="$PROJECT_DIR$/.idea/Travel Planning System_Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TravelPackage_Service/TravelPackage_Service.iml" filepath="$PROJECT_DIR$/TravelPackage_Service/TravelPackage_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle_Service/Vehicle_Service.iml" filepath="$PROJECT_DIR$/Vehicle_Service/Vehicle_Service.iml" />
+    </modules>
+  </component>
+</project>
